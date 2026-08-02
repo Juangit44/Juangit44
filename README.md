@@ -1,13 +1,13 @@
-<!-- BANNER PRINCIPAL -->
-<p align="center">
-  <img src="BANNER.png" alt="Banner Juan Carlos - Desarrollador Junior" width="100%" />
-</p>
 
 <!-- SALUDO Y ROL -->
 <h1 align="center">¡Hola! 👋 Mi nombre es JUAN CARLOS</h1>
 <h3 align="center">Desarrollador Junior</h3>
 
 ---
+<!-- BANNER PRINCIPAL -->
+<p align="center">
+  <img src="BANNER.png" alt="Banner Juan Carlos - Desarrollador Junior" width="100%" />
+</p>
 
 <!-- DESCRIPCIÓN BREVE -->
 ### 🚀 Sobre mí
