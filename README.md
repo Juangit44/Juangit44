@@ -33,8 +33,6 @@
 
 ---
 
-<!-- LENGUAJES Y HERRAMIENTAS -->
-### 🛠️ Lenguajes y Herramientas:
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 ### 🛠️ Lenguajes y Herramientas:
