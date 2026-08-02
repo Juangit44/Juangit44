@@ -1,63 +1,25 @@
-<!-- ENCABEZADO CON SALUDO E IMAGEN -->
-<h1 align="center">¡Hola! 👋 Mi nombre es JUAN CARLOS</h1>
-<h3 align="center">Apassionat [TU ROL: ej. Desarrollo Web / Mobile / Software Engineer]</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platzi/git-github/main/BANNER.png" width="200" alt="Avatar"/>
-</p>
-
----
-
-<!-- DESCRIPCIÓN BREVE --<!-- BANNER PRINCIPAL -->
+<!-- BANNER PRINCIPAL -->
 <p align="center">
   <img src="banner.png" alt="Banner Juan Carlos - Desarrollador Junior" width="100%" />
 </p>
 
-<h1 align="center">¡Hola! 👋 Soy Juan Carlos</h1>
+<!-- SALUDO Y ROL -->
+<h1 align="center">¡Hola! 👋 Mi nombre es JUAN CARLOS</h1>
 <h3 align="center">Desarrollador Junior</h3>
 
 ---
 
+<!-- DESCRIPCIÓN BREVE -->
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente me encuentro trabajando en proyectos personales para mejorar mis habilidades.
-- 🌱 Aprendiendo y mejorando en **JavaScript, Python, Java, C++, HTML, CSS y Git**.
-- 💬 Pregúntame sobre desarrollo de software y programación.
-- 📬 Puedes contactarme a través de mis redes o correo.
+- 🔭 Actualmente estoy trabajando en **Proyecto Bibliotecario FIVC**
+- 🌱 Estoy aprendiendo **JavaScript, Python, Java, C++, HTML, CSS y Git**
+- 💬 Pregúntame sobre **Desarrollo de Software y Lógica de Programación**
+- ⚡ Dato curioso: **Apasionado por crear tecnología y aprender nuevas herramientas**
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark" alt="Lenguajes más usados" />
-</p>
-### 🚀 Sobre mí
-
-- 🔭 Actualmente estoy trabajando en Proyecto Bibliotecario FIVC
-- 🌱 Estoy aprendiendo **[Lenguaje o Tecnología actual, ej. React / Python]**
-- 💬 Pregúntame sobre **[Tus tecnologías principales]**
-- ⚡ Dato curioso: **[Algo divertido sobre ti o un pasatiempo]**
-
----
-
-<!-- REDES SOCIALES Y BOTONES -->
+<!-- REDES SOCIALES Y CONTACTO -->
 ### 📬 Encuéntrame en:
 
 <p align="left">
@@ -74,12 +36,14 @@
 
 ---
 
-<!-- TECNOLOGÍAS Y HERRAMIENTAS -->
+<!-- LENGUAJES Y HERRAMIENTAS -->
 ### 🛠️ Lenguajes y Herramientas:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
@@ -91,7 +55,7 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </p>
