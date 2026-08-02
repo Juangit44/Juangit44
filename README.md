@@ -1,5 +1,5 @@
 <!-- ENCABEZADO CON SALUDO E IMAGEN -->
-<h1 align="center">¡Hola! 👋 Mi nombre es [TU NOMBRE]</h1>
+<h1 align="center">¡Hola! 👋 Mi nombre es JUAN CARLOS</h1>
 <h3 align="center">Apassionat [TU ROL: ej. Desarrollo Web / Mobile / Software Engineer]</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <!-- DESCRIPCIÓN BREVE -->
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en **[Tu Proyecto Actual]**
+- 🔭 Actualmente estoy trabajando en Proyecto Bibliotecario FIVC
 - 🌱 Estoy aprendiendo **[Lenguaje o Tecnología actual, ej. React / Python]**
 - 💬 Pregúntame sobre **[Tus tecnologías principales]**
 - ⚡ Dato curioso: **[Algo divertido sobre ti o un pasatiempo]**
