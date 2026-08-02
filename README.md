@@ -60,3 +60,7 @@
   <br/><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juangit44&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </p>
+<!-- ALTERNATIVA DE ESTADÍSTICAS -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juangit44&theme=dark" alt="Estadísticas de GitHub" />
+</p>
