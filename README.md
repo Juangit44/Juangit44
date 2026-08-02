@@ -3,7 +3,7 @@
 <h3 align="center">Apassionat [TU ROL: ej. Desarrollo Web / Mobile / Software Engineer]</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platzi/git-github/main/badge.png" width="200" alt="Avatar"/>
+  <img src="https://raw.githubusercontent.com/platzi/git-github/main/BANNER.png" width="200" alt="Avatar"/>
 </p>
 
 ---
