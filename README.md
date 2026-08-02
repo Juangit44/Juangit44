@@ -1,6 +1,6 @@
 <!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="banner.png" alt="Banner Juan Carlos - Desarrollador Junior" width="100%" />
+  <img src="BANNER.png" alt="Banner Juan Carlos - Desarrollador Junior" width="100%" />
 </p>
 
 <!-- SALUDO Y ROL -->
